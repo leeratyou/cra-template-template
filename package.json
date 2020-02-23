@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-template",
+  "version": "1.2.8",
+  "private": false,
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "template-template"
+  ],
+  "description": "The template for Create React App made by me",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeratyou/cra-template-template.git"
+  },
+  "author": {
+    "name": "Boris Veligorya",
+    "email": "boris.veligorya@gmail.com",
+    "url": "https://supersimplethings.com",
+    "github": "@leeratyou"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeratyou/cra-template-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "@hot-loader/react-dom": "^16.11.0",
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "4.5.1",
+    "@material-ui/styles": "^4.7.1",
+    "@supersimplethings/fetchme": "^0.9.3",
+    "i18next": "^19.3.1",
+    "react-i18next": "^11.3.3",
+    "jss": "^10.0.0",
+    "jss-rtl": "^0.3.0",
+    "mobx": "^5.15.0",
+    "mobx-react": "^6.1.4",
+    "mobx-react-lite": "^2.0.0-alpha.3",
+    "normalize.css": "^8.0.1",
+    "change-case": "^4.1.1",
+    "react-hot-loader": "^4.12.18",
+    "react-dom": "npm:@hot-loader/react-dom@^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "styled-components": "^5.0.0-rc.2",
+    "system-font-css": "^2.0.2"
+  },
+  "scripts": {
+    "start": "rescripts start",
+    "build": "rescripts build"
+  },
+  "devDependencies": {
+    "@rescripts/cli": "0.0.13",
+    "@rescripts/rescript-env": "0.0.11",
+    "@rescripts/rescript-use-babel-config": "0.0.9",
+    "@rescripts/rescript-use-eslint-config": "0.0.10",
+    "babel-plugin-styled-components": "^1.10.6",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/parser": "^7.7.7",
+    "@babel/plugin-proposal-export-default-from": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-decorators": "^7.6.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.6.0",
+    "@babel/plugin-proposal-transform-imports": "^2.0.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-react-perf": "^3.2.3",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "typescript": "^3.8.2"
+  }
+}
